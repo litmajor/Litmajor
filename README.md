@@ -33,7 +33,7 @@ Gold-Swing-EA/        MetaTrader 5 Expert Advisor · Algorithmic gold trading
 Project-Neuro/        Emotionally intelligent AI interface · Persistent cognitive agent
 blackvault/           Cryptographic vault module · HMAC-authenticated storage
 Scanstream/           Trading RPG Agentic platform for autonomus trading operations
-Json-as-an-agentic-brain/  Exploring an in-memory layer as a brajn for agentic frameworks using JSON as a 'cognitive engine".
+Json-as-an-agentic-brain/  Exploring an in-memory layer as a brain for agentic frameworks using JSON as a 'cognitive engine".
 Crypto-momentum-scanner/ Explored the CcXT library to get raw and turn it into an intelligence pipeline for agents,predecessor to most ccxt based systems i've built.
 ```
 
