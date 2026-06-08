@@ -7,7 +7,7 @@
 ╚══════════════════════════════════════════════════════╝
 ```
 
-[![Email](https://img.shields.io/badge/gichrejames001@gmail.com-0a0a0a?style=flat-square&logo=gmail&logoColor=f59e0b)](mailto:gichrejames001@gmail.com)
+[![Email](https://img.shields.io/badge/gichurejames001@gmail.com-0a0a0a?style=flat-square&logo=gmail&logoColor=f59e0b)](mailto:gichrejames001@gmail.com)
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Remote%20%2F%20Global-f59e0b?style=flat-square&logoColor=white)]()
 
 </div>
